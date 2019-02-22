@@ -1,0 +1,180 @@
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+450            2018  VALLEY CENTER RD  LAKE WOHLFORD RD    5280.0         E   
+1070           2018  VALLEY CENTER RD  LAKE WOHLFORD RD    1584.0         E   
+1398           2018  VALLEY CENTER RD  LAKE WOHLFORD RD    2818.0         N   
+1783           2018  VALLEY CENTER RD  LAKE WOHLFORD RD     847.0         W   
+1920           2018  VALLEY CENTER RD  LAKE WOHLFORD RD     500.0         N   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+450             N              0               0              NaN   
+1070            N              0               3              NaN   
+1398            N              0               0              NaN   
+1783            N              0               0              NaN   
+1920            N              0               0              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+450                  0                   NaN                0  
+1070                 0                   NaN                0  
+1398                 0                   NaN                0  
+1783                 0                   NaN                0  
+1920                 0                   NaN                0  
+('TOTAL CRASHES IN 2018', 5)
+('TOTAL INJURIES IN 2018', 3L)
+('TOTAL DEATHS IN 2018', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+8              2017  VALLEY CENTER RD  LAKE WOHLFORD RD      1056         E   
+134            2017  VALLEY CENTER RD  LAKE WOHLFORD RD      4224         N   
+1093           2017  VALLEY CENTER RD  LAKE WOHLFORD RD      8976         N   
+1249           2017  VALLEY CENTER RD  LAKE WOHLFORD RD      5280         N   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+8               N              0               0              NaN   
+134             N              0               0              NaN   
+1093            N              0               0              NaN   
+1249            N              0               1              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+8                    0                   NaN                0  
+134                  0                   NaN                0  
+1093                 0                   NaN                0  
+1249                 0                   NaN                0  
+('TOTAL CRASHES IN 2017', 4)
+('TOTAL INJURIES IN 2017', 1L)
+('TOTAL DEATHS IN 2017', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+155            2016  VALLEY CENTER RD  LAKE WOHLFORD RD    1320.0         N   
+270            2016  VALLEY CENTER RD  LAKE WOHLFORD RD    8448.0         N   
+515            2016  VALLEY CENTER RD  LAKE WOHLFORD RD   10032.0         N   
+580            2016  VALLEY CENTER RD  LAKE WOHLFORD RD    3696.0         N   
+664            2016  VALLEY CENTER RD  LAKE WOHLFORD RD    8976.0         N   
+1280           2016  VALLEY CENTER RD  LAKE WOHLFORD RD    4224.0         N   
+1687           2016  VALLEY CENTER RD  LAKE WOHLFORD RD      55.0         W   
+1947           2016  VALLEY CENTER RD  LAKE WOHLFORD RD    8976.0         E   
+2288           2017  VALLEY CENTER RD  LAKE WOHLFORD RD       0.0       NaN   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+155             N              0               1                Y   
+270             N              0               3              NaN   
+515             N              0               1              NaN   
+580             N              0               0              NaN   
+664             N              0               2              NaN   
+1280            N              0               1              NaN   
+1687            N              0               1              NaN   
+1947            N              0               0              NaN   
+2288            Y              0               1              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+155                  0                   NaN                0  
+270                  0                   NaN                0  
+515                  0                   NaN                0  
+580                  0                   NaN                0  
+664                  0                   NaN                0  
+1280                 0                   NaN                0  
+1687                 0                   NaN                0  
+1947                 0                   NaN                0  
+2288                 0                   NaN                0  
+('TOTAL CRASHES IN 2016', 9)
+('TOTAL INJURIES IN 2016', 10L)
+('TOTAL DEATHS IN 2016', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+998            2015  VALLEY CENTER RD  LAKE WOHLFORD RD    4400.0         N   
+1068           2015  VALLEY CENTER RD  LAKE WOHLFORD RD    6864.0         N   
+1266           2015  VALLEY CENTER RD  LAKE WOHLFORD RD    7920.0         N   
+1650           2015  VALLEY CENTER RD  LAKE WOHLFORD RD      60.0         E   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+998             N              0               0              NaN   
+1068            N              0               0              NaN   
+1266            N              0               0                Y   
+1650            N              0               1                Y   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+998                  0                   NaN                0  
+1068                 0                   NaN                0  
+1266                 0                   NaN                0  
+1650                 0                   NaN                0  
+('TOTAL CRASHES IN 2015', 4)
+('TOTAL INJURIES IN 2015', 1L)
+('TOTAL DEATHS IN 2015', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+50             2014  VALLEY CENTER RD  LAKE WOHLFORD RD    4224.0         N   
+236            2014  VALLEY CENTER RD  LAKE WOHLFORD RD    7392.0         N   
+453            2014  VALLEY CENTER RD  LAKE WOHLFORD RD    9504.0         N   
+579            2014  VALLEY CENTER RD  LAKE WOHLFORD RD    4224.0         N   
+736            2014  VALLEY CENTER RD  LAKE WOHLFORD RD      50.0         E   
+949            2014  VALLEY CENTER RD  LAKE WOHLFORD RD    2640.0         E   
+1031           2014  VALLEY CENTER RD  LAKE WOHLFORD RD   17424.0         N   
+1284           2014  VALLEY CENTER RD  LAKE WOHLFORD RD    7920.0         N   
+1573           2014  VALLEY CENTER RD  LAKE WOHLFORD RD    7392.0         N   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+50              N              0               1              NaN   
+236             N              0               1                Y   
+453             N              0               0              NaN   
+579             N              0               1                Y   
+736             N              0               0              NaN   
+949             N              0               0                Y   
+1031            N              0               1                Y   
+1284            N              0               3              NaN   
+1573            N              0               1              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+50                   0                   NaN                0  
+236                  0                   NaN                0  
+453                  0                   NaN                0  
+579                  0                   NaN                0  
+736                  0                   NaN                0  
+949                  0                   NaN                0  
+1031                 0                   NaN                0  
+1284                 0                   NaN                0  
+1573                 0                   NaN                0  
+('TOTAL CRASHES IN 2014', 9)
+('TOTAL INJURIES IN 2014', 8L)
+('TOTAL DEATHS IN 2014', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+359            2013  VALLEY CENTER RD  LAKE WOHLFORD RD    3168.0         N   
+669            2013  VALLEY CENTER RD  LAKE WOHLFORD RD    6336.0         N   
+821            2013  VALLEY CENTER RD  LAKE WOHLFORD RD    1584.0         S   
+1465           2013  VALLEY CENTER RD  LAKE WOHLFORD RD    5280.0         N   
+1609           2013  VALLEY CENTER RD  LAKE WOHLFORD RD    2640.0         N   
+1987           2014  VALLEY CENTER RD  LAKE WOHLFORD RD    1584.0         N   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+359             N              0               2              NaN   
+669             N              0               1              NaN   
+821             N              0               1              NaN   
+1465            N              0               0              NaN   
+1609            N              0               0              NaN   
+1987            N              0               4              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+359                  0                   NaN                0  
+669                  0                   NaN                0  
+821                  0                   NaN                0  
+1465                 0                   NaN                0  
+1609                 0                   NaN                0  
+1987                 0                   NaN                0  
+('TOTAL CRASHES IN 2013', 6)
+('TOTAL INJURIES IN 2013', 8L)
+('TOTAL DEATHS IN 2013', 0L)
+      ACCIDENT_YEAR        PRIMARY_RD      SECONDARY_RD  DISTANCE DIRECTION  \
+211            2012  VALLEY CENTER RD  LAKE WOHLFORD RD    5280.0         N   
+638            2012  VALLEY CENTER RD  LAKE WOHLFORD RD    4224.0         N   
+1432           2012  VALLEY CENTER RD  LAKE WOHLFORD RD    3696.0         N   
+
+     INTERSECTION  NUMBER_KILLED  NUMBER_INJURED ALCOHOL_INVOLVED  \
+211             N              1               0              NaN   
+638             N              0               2              NaN   
+1432            N              0               0              NaN   
+
+      COUNT_PED_KILLED  COUNT_BICYCLE_KILLED  COUNT_MC_KILLED  
+211                  0                   NaN                0  
+638                  0                   NaN                0  
+1432                 0                   NaN                0  
+('TOTAL CRASHES IN 2012', 3)
+('TOTAL INJURIES IN 2012', 2L)
+('TOTAL DEATHS IN 2012', 1L)
+BREAK
+('TOTAL CRASHES OVER SEVEN YEARS', 40)
+('TOTAL INJUIRES OVER SEVEN YEAR PERIOD', 33L)
+('TOTAL DEATHS OVER SEVEN YEAR PERIOD', 1L)
